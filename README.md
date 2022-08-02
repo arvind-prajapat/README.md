@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arvind Prajapati 
 Find more on my Portfolio 
-#### _[https://www.arvind.net.in/](https://www.arvind.net.in/)_
+#### _[https://www.arvind.net.in](https://www.arvind.net.in)_
 
 
 The green dots on my GitHub profile represent my journey 🏃‍♀️ - From being curious to becoming  Front-end Developer.
